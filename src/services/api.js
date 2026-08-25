@@ -123,8 +123,6 @@ export async function cadastrar(nome, email, senha) {
 
   return dados; // { sucesso, mensagem, token, usuario }
 }
-  throw new Error("🚧 TAREFA 1 ainda não foi implementada (src/services/api.js)");
-}
 
 // ╔═════════════════════════════════════════════════════════════════════╗
 // ║                                                                     ║
